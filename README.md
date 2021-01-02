@@ -8,14 +8,14 @@ Everyday a million products are being recommended to users based onpopularity an
 average order value by 50%, increases revenues by 300%, andimproves conversion. In addition to being a powerful tool for increasing revenues,product recommendations are so 
 essential that customers now expect to see similarfeatures on all other eCommerce sites.
 
-## DataDescription ## 
+## Data Description ## 
 Data columns- First three columns are userId,productId,andratings and the fourthcolumn is timestamp.
 
 ## Source ##
 Amazon Reviews data (http://jmcauley.ucsd.edu/data/amazon/)  
 Therepository has several datasets. For this case study, we are using the Electronicsdataset.
 
-## LearningOutcomes ##
+## Learning Outcomes ##
 ●Exploratory Data Analysis
 ●Data Wrangling
 Build a Popularity recommender model
